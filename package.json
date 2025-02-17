@@ -1,5 +1,5 @@
 {
-  "name": "sRGB",
+  "name": "sRGBnormalizer",
   "dependencies": {
     "chalk": "^5.4.1",
     "clipboardy": "^4.0.0",
